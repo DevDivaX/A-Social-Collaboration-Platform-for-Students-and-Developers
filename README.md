@@ -1,12 +1,12 @@
 # ProjectConnect
 
-## A Social Collaboration Platform for Students and Developers
+## A Social Collaboration Platform for Students and Developers 
 
 > **Project Status:** 🚧 Under Development
 
 ProjectConnect is a social collaboration platform designed for **students and developers** to connect, share knowledge, showcase their skills and projects, find collaborators, and participate in technical communities.
 
-The platform combines the core features of a social media application with **developer networking and project collaboration**, creating a space where users can build connections based on their skills, interests, and technical goals.
+The platform combines the core features of a social media application with **developer networking and project collaboration**, creating a space where users can build connections based on their skills, interests, and technical goals.Enjoy
 
 ---
 
